@@ -1,0 +1,3 @@
+{"exclude": [{"user": "mike@mail.com", "rating": 20, "disabled": false},
+ {"user": "greg@mail.com", "rating": 24, "disabled": false}],
+  "include": [{"user": "greg@mail.com", "rating": 24, "disabled": false}]}

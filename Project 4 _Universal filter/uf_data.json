@@ -1,0 +1,5 @@
+{"data": [{"user": "mike@mail.com", "rating": 20, "disabled": false},
+          {"user": "greg@mail.com", "rating": 24, "disabled": false},
+          {"user": "john@mail.com", "rating": 25, "disabled": true}],
+"condition":[{"exclude": [{"disabled": true}], "sort_by": ["rating"]},
+             {"include": [{"user": "greg@mail.com"}], "sort_by": ["rating"]}]}

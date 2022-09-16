@@ -1,0 +1,7 @@
+[
+{"unit_in":"m","unit_out":"ft","calc":"0.304"},
+{"unit_in":"m","unit_out":"cm","calc":"0.01"},
+{"unit_in":"m","unit_out":"in","calc":"0.0254"},
+{"unit_in":"yd","unit_out":"ft","calc":"3"},
+{"unit_in":"in","unit_out":"mm","calc":"25.4"}
+]
